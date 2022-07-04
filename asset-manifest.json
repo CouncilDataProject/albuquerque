@@ -5,16 +5,16 @@
     "runtime-main.js": "/albuquerque/static/js/runtime-main.ac3b3e47.js",
     "runtime-main.js.map": "/albuquerque/static/js/runtime-main.ac3b3e47.js.map",
     "static/css/2.5082ff89.chunk.css": "/albuquerque/static/css/2.5082ff89.chunk.css",
-    "static/js/2.f1614329.chunk.js": "/albuquerque/static/js/2.f1614329.chunk.js",
-    "static/js/2.f1614329.chunk.js.map": "/albuquerque/static/js/2.f1614329.chunk.js.map",
+    "static/js/2.8d50be47.chunk.js": "/albuquerque/static/js/2.8d50be47.chunk.js",
+    "static/js/2.8d50be47.chunk.js.map": "/albuquerque/static/js/2.8d50be47.chunk.js.map",
     "index.html": "/albuquerque/index.html",
     "static/css/2.5082ff89.chunk.css.map": "/albuquerque/static/css/2.5082ff89.chunk.css.map",
-    "static/js/2.f1614329.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.f1614329.chunk.js.LICENSE.txt"
+    "static/js/2.8d50be47.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.8d50be47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ac3b3e47.js",
     "static/css/2.5082ff89.chunk.css",
-    "static/js/2.f1614329.chunk.js",
+    "static/js/2.8d50be47.chunk.js",
     "static/js/main.a227b43f.chunk.js"
   ]
 }
