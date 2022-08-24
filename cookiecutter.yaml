@@ -1,0 +1,13 @@
+default_context:
+    municipality: "Albuquerque"
+    iana_timezone: "America/Denver"
+    governing_body_type: "city council"
+    municipality_slug: "albuquerque"
+    python_municipality_slug: "albuquerque"
+    infrastructure_slug: "cdp-albuquerque-1d29496e"
+    maintainer_or_org_full_name: "evamaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "albuquerque"
+    hosting_github_url: "https://github.com/CouncilDataProject/albuquerque"
+    hosting_web_app_address: "https://councildataproject.github.io/albuquerque"
+    firestore_region: "us-central"
