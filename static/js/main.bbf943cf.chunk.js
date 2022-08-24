@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-albuquerque"]=this["webpackJsonpcdp-albuquerque"]||[]).push([[0],{199:function(e,n){},87:function(e,n,i){"use strict";i.r(n);i(0);var t=i(25),r=i.n(t),c=i(62),o=(i(213),i(53));r.a.render(Object(o.jsx)("div",{children:Object(o.jsx)(c.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-albuquerque-1d29496e"},settings:{}},municipality:{name:"Albuquerque",timeZone:"America/Denver",footerLinksSections:[]}},children:Object(o.jsx)(c.App,{})})}),document.getElementById("root"))}},[[87,1,2]]]);
+//# sourceMappingURL=main.bbf943cf.chunk.js.map
