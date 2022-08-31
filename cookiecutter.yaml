@@ -11,3 +11,5 @@ default_context:
     hosting_github_url: "https://github.com/CouncilDataProject/albuquerque"
     hosting_web_app_address: "https://councildataproject.github.io/albuquerque"
     firestore_region: "us-central"
+    event_gather_timedelta_lookback_days: 16
+    event_gather_cron: "49 6 * * *"
