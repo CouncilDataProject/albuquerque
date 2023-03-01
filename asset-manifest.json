@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/albuquerque/static/js/main.30404993.chunk.js",
-    "main.js.map": "/albuquerque/static/js/main.30404993.chunk.js.map",
+    "main.js": "/albuquerque/static/js/main.dedecdee.chunk.js",
+    "main.js.map": "/albuquerque/static/js/main.dedecdee.chunk.js.map",
     "runtime-main.js": "/albuquerque/static/js/runtime-main.ad6f17b2.js",
     "runtime-main.js.map": "/albuquerque/static/js/runtime-main.ad6f17b2.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/albuquerque/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.9072ece4.chunk.js": "/albuquerque/static/js/2.9072ece4.chunk.js",
-    "static/js/2.9072ece4.chunk.js.map": "/albuquerque/static/js/2.9072ece4.chunk.js.map",
+    "static/js/2.863b86b8.chunk.js": "/albuquerque/static/js/2.863b86b8.chunk.js",
+    "static/js/2.863b86b8.chunk.js.map": "/albuquerque/static/js/2.863b86b8.chunk.js.map",
     "index.html": "/albuquerque/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/albuquerque/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.9072ece4.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.9072ece4.chunk.js.LICENSE.txt"
+    "static/js/2.863b86b8.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.863b86b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad6f17b2.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.9072ece4.chunk.js",
-    "static/js/main.30404993.chunk.js"
+    "static/js/2.863b86b8.chunk.js",
+    "static/js/main.dedecdee.chunk.js"
   ]
 }
