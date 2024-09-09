@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/albuquerque/static/js/main.fe678eec.chunk.js",
-    "main.js.map": "/albuquerque/static/js/main.fe678eec.chunk.js.map",
-    "runtime-main.js": "/albuquerque/static/js/runtime-main.9dc3b78a.js",
-    "runtime-main.js.map": "/albuquerque/static/js/runtime-main.9dc3b78a.js.map",
+    "main.js": "/albuquerque/static/js/main.760aaaeb.chunk.js",
+    "main.js.map": "/albuquerque/static/js/main.760aaaeb.chunk.js.map",
+    "runtime-main.js": "/albuquerque/static/js/runtime-main.97205009.js",
+    "runtime-main.js.map": "/albuquerque/static/js/runtime-main.97205009.js.map",
     "static/css/2.eb012a82.chunk.css": "/albuquerque/static/css/2.eb012a82.chunk.css",
-    "static/js/2.b08b8d62.chunk.js": "/albuquerque/static/js/2.b08b8d62.chunk.js",
-    "static/js/2.b08b8d62.chunk.js.map": "/albuquerque/static/js/2.b08b8d62.chunk.js.map",
+    "static/js/2.f50bc988.chunk.js": "/albuquerque/static/js/2.f50bc988.chunk.js",
+    "static/js/2.f50bc988.chunk.js.map": "/albuquerque/static/js/2.f50bc988.chunk.js.map",
     "index.html": "/albuquerque/index.html",
     "static/css/2.eb012a82.chunk.css.map": "/albuquerque/static/css/2.eb012a82.chunk.css.map",
-    "static/js/2.b08b8d62.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.b08b8d62.chunk.js.LICENSE.txt"
+    "static/js/2.f50bc988.chunk.js.LICENSE.txt": "/albuquerque/static/js/2.f50bc988.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dc3b78a.js",
+    "static/js/runtime-main.97205009.js",
     "static/css/2.eb012a82.chunk.css",
-    "static/js/2.b08b8d62.chunk.js",
-    "static/js/main.fe678eec.chunk.js"
+    "static/js/2.f50bc988.chunk.js",
+    "static/js/main.760aaaeb.chunk.js"
   ]
 }
